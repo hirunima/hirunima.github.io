@@ -21,12 +21,12 @@ Vinoj Jayasundara, Sandaru Jayasekara, <b> Hirunima Jayasekara </b>, Jathushan R
 
 
 <b>Can WiFi Beamforming Support an Energy-Harvesting Wearable?</b><br>
-Vu H. Tran, Archan Misra, Jie Xiong, <b>Nipuni Hirunima</b>,
-<i>Proceedings of the Fifth ACM International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems</i> <b>ENsys</b>. [[paper](https://dl.acm.org/citation.cfm?id=3142997)]
+Vu H. Tran, Archan Misra, Jie Xiong, <b>Nipuni Hirunima</b>.<br>
+<i>ACM International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems</i> <b>ENsys 2017</b>.<br> [[paper](https://dl.acm.org/citation.cfm?id=3142997)]
 
 <b>Journal Articles</b><br/>
 
-<b>Device-Free User Authentication, Activity Classification and Tracking using Passive Wi-Fi Sensing: A Deep</b><br>
+<b>Device-Free User Authentication, Activity Classification and Tracking using Passive Wi-Fi Sensing: A Deep  Learning Based Approach</b><br>
 Vinoj Jayasundara*,<b>Hirunima Jayasekara*</b>, Tharaka Samarasinghe and Kasun T. Hemachandra<br>
-IEEE Sensors Journal 2019.<br> [[paper](https://arxiv.org/pdf/1911.11743.pdf)]
+<i>IEEE Sensors Journal.</i> <b>IEEE Sensors 2019</b>.<br> [[paper](https://arxiv.org/pdf/1911.11743.pdf)]
 *Equal Contribution
