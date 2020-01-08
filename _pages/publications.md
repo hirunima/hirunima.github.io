@@ -28,5 +28,5 @@ Vu H. Tran, Archan Misra, Jie Xiong, <b>Nipuni Hirunima</b>.<br>
 
 <b>Device-Free User Authentication, Activity Classification and Tracking using Passive Wi-Fi Sensing: A Deep  Learning Based Approach</b><br>
 Vinoj Jayasundara*,<b>Hirunima Jayasekara*</b>, Tharaka Samarasinghe and Kasun T. Hemachandra<br>
-<i>IEEE Sensors Journal.</i> <b>IEEE Sensors 2019</b>.<br> [[paper](https://arxiv.org/pdf/1911.11743.pdf)]
+<i>IEEE Sensors Journal.</i> <b>IEEE Sensors 2019</b>.<br> [[paper](https://arxiv.org/pdf/1911.11743.pdf)]<br>
 *Equal Contribution
