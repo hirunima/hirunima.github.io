@@ -7,7 +7,7 @@ author_profile: true
 
 <b>TimeCaps: Learning from Time Series Data with Capsule Networks</b><br>
  <b> Hirunima Jayasekara </b>, Vinoj Jayasundara, Jathushan Rajasegaran, Sandaru Jayasekara, Suranga Seneviratne and Ranga Rodrigo <br>
- <i> International Conference on Agents and Artificial Intelligence</i> <b>ICAART 2020</b> [[paper](https://arxiv.org/abs/1911.11800)]
+ <i> </i> <b></b> [[paper](https://arxiv.org/abs/1911.11800)[code](https://github.com/hirunima/TimeCaps)]
  
 <b>DeepCaps : Going Deeper with Capsule Networks.</b><br>
 Jathushan Rajasegaran, Vinoj Jayasundara, Sandaru Jayasekara, <b> Hirunima Jayasekara </b>, Suranga Seneviratne, Ranga Rodrigo.<br>
