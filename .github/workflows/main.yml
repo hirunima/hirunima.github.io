@@ -6,12 +6,14 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: checkout
-      uses: actions/checkout@v1
-
-    - name: Delete
+    - name: Gen
       run: |
-        rm -rf .git .github
+        wget --convert-links -r hirunima.github.io
+    
+    - name: GoIn
+      run: |
+        cd hirunima.github.io
+
     - name: scp pipeline umd
       uses: cross-the-world/scp-pipeline@master
       with:
