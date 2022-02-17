@@ -7,13 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Gen
-      run: |
-        wget --convert-links -r hirunima.github.io
-    
-    - name: GoIn
-      run: |
-        cd hirunima.github.io
-
+      run: wget --convert-links -r hirunima.github.io
+      
     - name: scp pipeline umd
       uses: cross-the-world/scp-pipeline@master
       with:
@@ -22,7 +17,7 @@ jobs:
         pass: ${{ secrets.UMD_PASSWORD }}
         port: 22
         connect_timeout: 10s
-        local: ./
+        local: ./hirunima.github.io/
         remote: /fs/wwwusers/hirunima/
         scp: |
           ./ => "/fs/wwwusers/hirunima/"
