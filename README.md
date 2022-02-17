@@ -1,1 +1,1 @@
-[My Homepage](https://hirunima.github.io/)
+[My homepage](https://hirunima.github.io/)
