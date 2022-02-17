@@ -3,10 +3,12 @@ on: [push]
 jobs:
 
   build:
-    - name: Build
+    name: Build
     runs-on: ubuntu-latest
     steps:
-      run: wget --convert-links -r hirunima.github.io;ls;echo "Hi!";
+    -name: getting
+      run: |
+        wget --convert-links -r hirunima.github.io;ls;echo "Hi!";
       
     - name: scp pipeline umd
       uses: cross-the-world/scp-pipeline@master
