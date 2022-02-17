@@ -18,7 +18,7 @@ jobs:
         host: ${{ secrets.UMD_HOST }}
         user: ${{ secrets.UMD_USERNAME }}
         pass: ${{ secrets.UMD_PASSWORD }}
-        port: ${{ secrets.PORT }}
+        port: 22
         connect_timeout: 10s
         local: ./
         remote: /fs/wwwusers/hirunima/
