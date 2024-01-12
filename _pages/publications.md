@@ -7,7 +7,7 @@ author_profile: true
 
 <b>TimeCaps: Learning from Time Series Data with Capsule Networks</b><br>
  <b> Hirunima Jayasekara </b>, Vinoj Jayasundara, Jathushan Rajasegaran, Sandaru Jayasekara, Suranga Seneviratne and Ranga Rodrigo <br>
- <i> </i> <b></b> [[paper](https://arxiv.org/abs/1911.11800)[code](https://github.com/hirunima/TimeCaps)]
+ <i> </i> <b></b> [[paper](https://arxiv.org/abs/1911.11800), [code](https://github.com/hirunima/TimeCaps) [poster](../files/NIPS20_Poster.pdf), [oral](https://youtu.be/rLFH_eXu8oU)]
  
 <b>DeepCaps : Going Deeper with Capsule Networks.</b><br>
 Jathushan Rajasegaran, Vinoj Jayasundara, Sandaru Jayasekara, <b> Hirunima Jayasekara </b>, Suranga Seneviratne, Ranga Rodrigo.<br>
