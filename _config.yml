@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hirunima Jayasekara"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "I am an Electronic and Telecommunication engineering graduate from the University of Moratuwa (She/Her)"
-  location         : "Singapore"
-  employer         : "SUTD"
+  bio              : ""
+  location         : "US"
+  employer         : "UMD"
   googlescholar    : "https://scholar.google.com/citations?user=CFJHvLcAAAAJ&hl=en&oi=ao"
   email            : "nhirunima@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Nipuni_Hirunima_Jayasekara"
