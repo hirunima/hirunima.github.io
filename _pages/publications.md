@@ -32,9 +32,9 @@ Jathushan Rajasegaran, Vinoj Jayasundara, Sandaru Jayasekara, <b> Hirunima Jayas
 <b>Submitted Papers</b><br/>
 
 <b>DGE: A Dynamic Metric and Grounded Evaluation Benchmarks for Text-to-Image and Image Editing Models.</b><br>
-<b> Hirunima Jayasekara </b>, Islam M. R.*, Huynh C., Shrivastava A.<br>
+<b> Hirunima Jayasekara </b>, Islam M. R.*, Chuong Huynh, Abhinav Shrivastava<br>
 <i>International Conference on Machine Learning</i> <b>ICML 2026</b>. [[paper](), [code](https://github.com/hirunima/DGE)]
 
 <b>All-in-One Conditioning for Text-to-Image Synthesis.</b><br>
-<b> Hirunima Jayasekara </b>, Huynh C., Ren Y., Acquaye C., Shrivastava A.<br>
+<b> Hirunima Jayasekara </b>, Chuong Huynh, Yixuan Ren, Christabel Acquaye, Abhinav Shrivastava<br>
 <i>International Conference on Pattern Recognition</i> <b>ICPR 2026</b>. [[paper](https://arxiv.org/abs/2602.09165), [code](https://github.com/hirunima/All-in-One)]
